@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }*/
 
-/*
+
     public void button(View view) {
         //Intent intent = new Intent(this, frgment.class) ;
         //startActivity(intent);
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         frgment fragment = new frgment();
         fragmentTransaction.add(R.id.linearLayout, fragment);
         fragmentTransaction.commit();
-    }*/
+    }
 
     public void button2(View view) {
         //Intent intent = new Intent(this, frgment.class) ;
